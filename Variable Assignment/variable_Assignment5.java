@@ -1,4 +1,4 @@
-public class variabler_Assignment5 {
+public class variable_Assignment5 {
     
     public static void main (String[] args) throws java.lang.Exception
 	{
