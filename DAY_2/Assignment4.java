@@ -10,6 +10,7 @@ public class Assignment4 {
                 double rad = scanner.nextDouble();
                 double pi = 3.14;
                 double area = 3.14*rad*rad;
+                
                 double peri = 2*3.14*rad;
 
                 System.out.println(area);
