@@ -7,7 +7,6 @@ public class Assignment4 {
         System.out.println("Enter radius: ");
         
 		Scanner scanner = new Scanner(System.in);
-
                 double rad = scanner.nextDouble();
                 double pi = 3.14;
                 double area = 3.14*rad*rad;
