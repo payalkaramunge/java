@@ -4,7 +4,6 @@ public class Assignment4 {
 
 	public static void main (String[] args) throws java.lang.Exception
 	{
-                
         System.out.println("Enter radius: ");
         
 		Scanner scanner = new Scanner(System.in);
