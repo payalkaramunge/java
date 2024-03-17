@@ -10,6 +10,7 @@ public class Assignment3
 		Scanner scanner = new Scanner(System.in);
                 int A = scanner.nextInt();
                 int B = scanner.nextInt();
+                
                 System.out.println(A+B);
 
                 System.out.println(A-B);
