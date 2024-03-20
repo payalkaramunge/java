@@ -6,6 +6,7 @@ public static void main (String[] args) throws java.lang.Exception
     System.out.println("Enter your value of a,b,c: ");
     
 		Scanner scanner = new Scanner(System.in);
+    
     int a = scanner.nextInt();
     int b = scanner.nextInt();
     int c = scanner.nextInt();
