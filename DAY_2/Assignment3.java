@@ -8,6 +8,7 @@ public class Assignment3
                 System.out.println("Enter your value of A,B: ");        
                       
 		Scanner scanner = new Scanner(System.in);
+                
                 int A = scanner.nextInt();
                 int B = scanner.nextInt();
                 System.out.println(A+B);
