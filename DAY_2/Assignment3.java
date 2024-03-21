@@ -11,6 +11,7 @@ public class Assignment3
                 
                 int A = scanner.nextInt();
                 int B = scanner.nextInt();
+                
                 System.out.println(A+B);
 
                 System.out.println(A-B);
