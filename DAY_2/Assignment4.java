@@ -8,6 +8,7 @@ public class Assignment4 {
         
 		Scanner scanner = new Scanner(System.in);
                 
+
                 double rad = scanner.nextDouble();
                 double pi = 3.14;
                 double area = 3.14*rad*rad;
