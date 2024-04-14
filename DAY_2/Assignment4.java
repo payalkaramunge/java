@@ -1,4 +1,8 @@
 // Circle Area-Perimeter
+
+// You are required to take the radius of a circle as input from the user, and finally, print the area and perimeter of the circle.
+// Note: Take pi as 3
+
 import java.util.*;
 public class Assignment4 {    
 
