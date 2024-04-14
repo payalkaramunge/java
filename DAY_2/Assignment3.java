@@ -1,4 +1,7 @@
 
+// You are given two positive integers. You have to calculate the result by performing +,-,*,/,% operations on them.
+
+
 import java.util.Scanner;
 
 public class Assignment3
