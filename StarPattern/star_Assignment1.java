@@ -4,5 +4,4 @@ public class star_Assignment1 {
         {
         System.out.println("*\n***\n*****");
         }
-        
 }
